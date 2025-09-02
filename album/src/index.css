@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Ballet:opsz@16..72&family=Birthstone&family=Cherish&family=Italianno&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Quicksand:wght@300..700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ballet:opsz@16..72&family=Birthstone&family=Cherish&family=Italianno&family=Lora:ital,wght@0,400..700;1,400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Quicksand:wght@300..700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ballet:opsz@16..72&family=Birthstone&family=Cherish&family=Italianno&family=Lora:ital,wght@0,400..700;1,400..700&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Quicksand:wght@300..700&display=swap");
+
+@import "tailwindcss";
+
+@theme {
+  --font-Playfair: "Playfair Display", serif;
+  --font-Merriweather: "Merriweather", serif;
+  --font-Lora: "Lora", serif;
+
+  --color-marron: #704214;
+  --color-beige: #f5f5dc;
+  --color-creme: #fdf5e6;
+  --cinza-claro: #d1c2a2;
+  --color-white: #ffffff;
+}
